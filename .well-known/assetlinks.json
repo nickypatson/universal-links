@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digicelgroup.topup.debug",
+      "sha256_cert_fingerprints": [
+        "87:E2:3B:0F:43:BC:62:A2:5D:31:CF:9F:44:17:F2:BA:25:47:8E:47:99:98:C3:B1:28:FF:56:2E:D1:AF:E5:B6"
+      ]
+    }
+  }
+]
