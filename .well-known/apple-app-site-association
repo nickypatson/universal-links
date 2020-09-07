@@ -13,6 +13,10 @@
     {
       "appID": "63LVTXX265.com.digicelgroup.topup.debug",
       "paths": ["/topup/*"]
+    },
+    {
+      "appID": "QFTGA4RLS.com.ocncc.himn",
+      "paths": ["*"]
     }
     ]
   }
